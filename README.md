@@ -1,2 +1,2 @@
 # Calculate-summary-statistics
-TechnoHacks Internship task
+TechnoHacks Internship Task2
